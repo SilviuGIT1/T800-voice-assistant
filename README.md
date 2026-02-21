@@ -1,6 +1,6 @@
 # T-800 Voice Assistant 
 
-Real-time, wake-word activated AI voice assistant with offline speech-to-text, GPT fallback, voice output, and live waveform visualization.
+Real-time, wake-word activated AI voice assistant with offline speech-to-text, GPT fallback, voice output, and live waveform visualization. This project was later put on a Raspberry pi linux, and used only as AI assistant.
 
 ---
 
