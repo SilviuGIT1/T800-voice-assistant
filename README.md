@@ -9,12 +9,9 @@ Real-time, wake-word activated AI voice assistant with offline speech-to-text, G
 - Features
 - Requirements
 - Install
-- Configuration
 - Run
-- Project layout
-- Customize
-- Notes
-- License
+- Start the program
+- Flow
 
 ---
 
