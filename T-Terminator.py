@@ -24,7 +24,7 @@ except ImportError:
     print("sounddevice not found, using PyAudio fallback")
 
 # =============== CONFIG ===============
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+OPENAI_API_KEY = os.getenv("Here you put your OPENAI KEY!")
 if not OPENAI_API_KEY:
     raise ValueError("Please set your OpenAI API key.")
 openai.api_key = OPENAI_API_KEY
