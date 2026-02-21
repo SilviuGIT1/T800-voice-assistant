@@ -1,0 +1,42 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Audio files generated at runtime
+response.wav
+input.wav
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Vosk models (too large for repo)
+vosk-models/
+vosk-model-*/
+
+# Sounds folder (remove this line if you WANT to track sounds)
+sounds/
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+
+# Misc
+*.tmp
